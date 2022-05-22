@@ -1,0 +1,46 @@
+*{margin: 0; padding: 0;}
+
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: 17px;
+
+}
+
+.menu{
+font-size: 20px;
+margin-left: 20em;
+list-style:none;
+float:left;
+}
+
+.menu li{
+    position:relative;
+    float:left;
+    
+    }
+
+.menu li a{color:rgb(114, 81, 81); text-decoration:none; padding:5px 10px; display:block;}
+
+.menu li a:hover{
+background:rgb(211, 142, 142);
+-webkit-box-shadow:0 3px 10px 0 rgb(71, 64, 64);
+
+}
+body{
+    background-color: rgb(245, 232, 227);
+    margin-left: 5em;
+    margin-bottom: 5em;
+   
+}
+
+}
+
+p{
+    color: rgb(36, 12, 8);
+    font-size: 3px;
+    margin-left: 5em;
+}
+
+h1{
+    font-size: 50px;
+}
